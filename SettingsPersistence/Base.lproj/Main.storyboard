@@ -188,11 +188,11 @@
                         </connections>
                     </tableView>
                     <connections>
+                        <outlet property="coolMeterSlider" destination="nd8-Dq-Ksw" id="AtJ-fF-khs"/>
                         <outlet property="coolMeterValueLabel" destination="2e3-Wh-gM3" id="dCJ-U5-o6m"/>
                         <outlet property="firstNameTextField" destination="gga-4Y-6zf" id="zVv-Sg-15H"/>
                         <outlet property="lastNameTextField" destination="mg3-I5-FN2" id="6op-JX-Nq1"/>
                         <outlet property="likesDevelopmentToggle" destination="qzh-6e-HMp" id="1M9-gX-H4o"/>
-                        <outlet property="slider" destination="nd8-Dq-Ksw" id="AtJ-fF-khs"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5rx-gW-aVS" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
